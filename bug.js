@@ -1,0 +1,1 @@
+In React Native, using a FlatList or SectionList, sometimes the items don't render correctly or the list doesn't update when data changes.  This might manifest as blank spaces, missing items, or items not reflecting the latest data in the state.
